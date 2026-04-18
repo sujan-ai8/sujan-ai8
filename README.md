@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sujan R</h1>
-<h3 align="center">🚀 AI Engineer in Progress | MCA (AI & ML)</h3>
+<h3 align="center">🚀 AI Engineer | MCA (AI & ML)</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sujan-r-12099b3a2">
