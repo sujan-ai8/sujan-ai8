@@ -83,6 +83,10 @@
 - 💼 LinkedIn: https://www.linkedin.com/in/sujan-r-12099b3a2  
 - 📧 Email: sujansagar771@gmail.com  
 
+💻 Tech Stack:
+Python R PHP AWS Oracle Google Cloud ApacheCassandra Neo4J Redis Postgres MongoDB Arduino Git GitHub GitLab Pandas PyTorch scikit-learn Scipy Plotly NumPy Matplotlib Keras mlflow TensorFlow GitLab CI GitHub Actions Canva CrateDB SQLite MicrosoftSQLServer Apache Apache Ant Nginx React NodeJS Anaconda Angular Angular.js Ant-Design Chart.js WordPress Web3.js Socket.io Firebase Cloudflare Azure Codeberg
+
+📊 GitHub Stats:
 ---
 
 ⭐ *"Building intelligent systems with AI, data & innovation."*
