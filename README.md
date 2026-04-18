@@ -72,11 +72,11 @@
 
 ---
 
-## 🔥 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujan-ai8&layout=compact&theme=tokyonight" />
-</p>
-
+## 🌍 Languages
+- English – Fluent (Professional Working Proficiency)  
+- Kannada – Native  
+- Hindi – Basic  
+- Telugu – Moderate  
 ---
 
 ## 🌐 Connect With Me
