@@ -11,82 +11,10 @@
 </p>
 
 ---
-
-## 🧠 About Me
-🎓 MCA (AI & ML) Student at Saptagiri NPS College, Bangalore  
-🤖 AI Engineer focused on Machine Learning, Deep Learning & GenAI  
-📊 Passionate about transforming data into intelligent systems  
-⚡ Experience in building real-world AI applications & deployment  
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![CrateDB](https://img.shields.io/badge/CrateDB-009DC7?style=for-the-badge&logo=CrateDB&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=for-the-badge&logo=Apache%20Ant&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white)
 
 ---
+[![](https://komarev.com/ghpvc/?username=sujan-ai8&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ Tech Stack
-**Languages:** Python, C++, Java, SQL, PHP  
-**AI/ML:** Scikit-learn, PyTorch, OpenCV, Hugging Face, LangChain  
-**Data & Visualization:** Excel, Power BI  
-**Deployment:** FastAPI, Streamlit, Gradio, Docker  
-**Web:** HTML, CSS, JavaScript  
-
----
-
-## 🚀 AI Projects
-
-### 🔹 Credit Risk Classifier
-- Built ML model to classify loan applicants  
-- Improved accuracy using feature engineering  
-- Used SHAP for model explainability  
-
-### 🔹 Object Detection (YOLOv8)
-- Real-time detection using PyTorch & OpenCV  
-- Achieved **95% mAP accuracy**  
-- Optimized for edge devices  
-
-### 🔹 AI Chatbot (RAG + BERT)
-- Built chatbot using LangChain + Hugging Face  
-- Implemented Retrieval-Augmented Generation  
-- Used for academic automation  
-
-### 🔹 PDF Summarizer AI Agent
-- Automated summarization using LangChain & OpenAI  
-- Reduced reading time by **70%**  
-
-### 🔹 AI Deployment System
-- Deployed models using Streamlit & FastAPI  
-- Used Docker for scalable backend APIs  
-
----
-
-## 📜 Certifications
-- 🎓 IIT Roorkee – Advanced Certification in Data Science & AI  
-- 🧠 Microsoft AI & ML Engineering Certificate  
-- 🤖 IBM AI Product Manager Certificate  
-- 🔐 AI for Cybersecurity – Microsoft  
-- 📊 Tata Data Analytics Simulation (Forage)  
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sujan-ai8&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
-## 🌍 Languages
-- English – Fluent (Professional Working Proficiency)  
-- Kannada – Native  
-- Hindi – Basic  
-- Telugu – Moderate  
----
-
-## 🌐 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/sujan-r-12099b3a2  
-- 📧 Email: sujansagar771@gmail.com  
-
-💻 Tech Stack:
-Python R PHP AWS Oracle Google Cloud ApacheCassandra Neo4J Redis Postgres MongoDB Arduino Git GitHub GitLab Pandas PyTorch scikit-learn Scipy Plotly NumPy Matplotlib Keras mlflow TensorFlow GitLab CI GitHub Actions Canva CrateDB SQLite MicrosoftSQLServer Apache Apache Ant Nginx React NodeJS Anaconda Angular Angular.js Ant-Design Chart.js WordPress Web3.js Socket.io Firebase Cloudflare Azure Codeberg
-
-📊 GitHub Stats:
----
-
-⭐ *"Building intelligent systems with AI, data & innovation."*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
